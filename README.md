@@ -1,6 +1,6 @@
 # Finicky Grubber
 
-Ongoing project for Epicodus Android Development course, week 1 Code Review (User Interface Basics).
+Ongoing project for Epicodus Android Development course, week 2 Code Review (Web Service Backends and Fragments).
 
 This project will demonstrate proficiency in Java and Android Development.
 
